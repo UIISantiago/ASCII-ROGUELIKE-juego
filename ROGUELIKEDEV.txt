@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=3XlZWpLwvvo
+¿COMO FUNCIONA GITHUB?
+
+---------------------------------------------------------
+
+http://vectorpoem.com/playscii/
+herramienta par ahacer ascii games
+
+https://www.reddit.com/r/learnprogramming/comments/4e3pw2/where_to_start_making_an_ascii_game/
+reddit ascii game dev
+
+https://www.reddit.com/r/roguelikedev/
+foro roguelike
+
+
+-----------------------------------------------------------
+IMPORTANTE- TUTORIAL PARA ROGUELIKE
+http://www.roguebasin.com/index.php?title=Complete_Roguelike_Tutorial,_using_python%2Blibtcod
+IMPORTANTE- TUTORIAL PARA ROGUELIKE
+
+
+https://www.reddit.com/r/roguelikedev/search?q=open+source&restrict_sr=on
+open source roguelike
